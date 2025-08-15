@@ -68,7 +68,7 @@ O projeto é construído em PHP no backend e HTML/JS/CSS no frontend, utilizando
 -     extension=pdo_sqlite;
 -     extension=sqlite3; 
 -     curl.cainfo = "C:\php8.4\extras\ssl\cacert.pem"; 
--     openssl.cafile = "C:\php\extras\ssl\cacert.pem"; 
+-     openssl.cafile = "C:\php8.4\extras\ssl\cacert.pem"; 
 - ✅ Layout simples e responsivo para facilitar uso administrativo.
 - ✅ Mensagens de erro e sucesso são exibidas dinamicamente.
 
