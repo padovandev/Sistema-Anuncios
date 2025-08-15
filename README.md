@@ -7,22 +7,22 @@ O projeto é construído em PHP no backend e HTML/JS/CSS no frontend, utilizando
 
 ## ⚙️ Funcionalidades
 
-✅ Autenticação de Usuário
-✅ Login e logout seguro via sessões PHP.
-✅ Proteção de rotas: apenas usuários autenticados podem acessar o painel administrativo.
-✅ Gerenciamento de Notícias.
-✅ Listar todas as notícias cadastradas.
-✅ Exibir notícia individual por ID.
-✅ Criar novas notícias com título e conteúdo.
-✅ Editar notícias existentes.
-✅ Excluir notícias.
+✅ Autenticação de Usuário 
+✅ Login e logout seguro via sessões PHP. 
+✅ Proteção de rotas: apenas usuários autenticados podem acessar o painel administrativo. 
+✅ Gerenciamento de Notícias. 
+✅ Listar todas as notícias cadastradas. 
+✅ Exibir notícia individual por ID. 
+✅ Criar novas notícias com título e conteúdo. 
+✅ Editar notícias existentes.  
+✅ Excluir notícias.  
 ✅ Sincronização Externa.
-✅ Tela de sincronização com ano e mês selecionáveis.
-✅ Busca e importa notícias de uma fonte externa (ex.: NYTimes API).
-✅ Mensagem de retorno indicando quantas notícias foram importadas.
-✅ Interface Responsiva
-✅ Layout simples e limpo em HTML/CSS.
-✅ Uso de JavaScript para navegação dinâmica entre telas sem recarregar a página.
+✅ Tela de sincronização com ano e mês selecionáveis. 
+✅ Busca e importa notícias de uma fonte externa (ex.: NYTimes API). 
+✅ Mensagem de retorno indicando quantas notícias foram importadas. 
+✅ Interface Responsiva 
+✅ Layout simples e limpo em HTML/CSS. 
+✅ Uso de JavaScript para navegação dinâmica entre telas sem recarregar a página. 
 
 ---
 
