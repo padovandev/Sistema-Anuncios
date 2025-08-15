@@ -5,6 +5,19 @@ O projeto é construído em PHP no backend e HTML/JS/CSS no frontend, utilizando
 
 ---
 
+# 📡 Como rodar em servidor local (TESTE)
+
+- 1. Extraia os Arquivos para a pasta que desejar.
+- 2. Após extrair, logo na pasta de origem dos arquivos, abra o terminal.
+- 3. Execute o comando:
+-   . php -S localhost:8000; 
+- 4. Após inciar o servidor local do PHP, entre no link: 
+-   . http://localhost:8000/ 
+
+- OBS: A porta utilizada não pode ser uma porta que ja está em uso. 
+
+---
+
 ## ⚙️ Funcionalidades
 
 - Autenticação de Usuário 
@@ -59,3 +72,4 @@ O projeto é construído em PHP no backend e HTML/JS/CSS no frontend, utilizando
 -     . openssl.cafile = "C:\php\extras\ssl\cacert.pem"; 
 - ✅ Layout simples e responsivo para facilitar uso administrativo.
 - ✅ Mensagens de erro e sucesso são exibidas dinamicamente.
+
