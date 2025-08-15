@@ -3,7 +3,7 @@
 session_start();
 
 const DB_PATH = __DIR__ . '/database.sqlite';
-const NYT_API_KEY = 'pLs3AITT5xJy8bQ8D6dVyFmV5ETZ6CzK'; // <- sua chave NYTimes
+const NYT_API_KEY = 'pLs3AITT5xJy8bQ8D6dVyFmV5ETZ6CzK'; 
 
 function getPDO(): PDO
 {
